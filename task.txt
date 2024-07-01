@@ -1,0 +1,14 @@
+REST API - JSON
+GET/users -get HTML list all users
+GET/json/users -get json  list all users
+
+GET/user/1 -get the list of user with id 1
+GET/user/2 -get the list of user with id 2
+
+POST/user - create a new user
+
+PATCH/user/1 - update user1
+DELETE/user/1 - delete user1
+
+user mockar0o for test data
+
